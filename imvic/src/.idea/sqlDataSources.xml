@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="c897b882-eb96-4dbe-bf3f-d53a765cef23" name="@localhost Mapping">
+      <data-sources db="a64fba46-dacf-4cbf-af62-41113b526b0a" ddl="8956610b-e586-44c2-bc8f-74613bf1e43c" />
+    </mapping>
+    <mapping uuid="386a25a9-522a-4add-babb-e8e912e47524" name="@localhost Mapping [2]">
+      <data-sources db="b233cc1d-9c46-4907-9d9e-43b114194e1e" />
+    </mapping>
+    <mapping uuid="348e8d29-51dc-4389-9b43-0cc53e8e1b98" name="imvic@localhost Mapping">
+      <data-sources db="8499febf-ffce-4a44-af11-ce06cbab34eb" ddl="2c82d714-df77-4de2-92bc-57718eff5640" />
+    </mapping>
+  </component>
+</project>
